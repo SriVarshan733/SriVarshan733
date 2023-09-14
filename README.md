@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **The only to do great works is to love what you do, if you haven't found it yet keep looking and don't settle**
 
+- 🧑🏻‍💻 Projects Done **11 projects including Web & Data Science**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Srivarshan0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
